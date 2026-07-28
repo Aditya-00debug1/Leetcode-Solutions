@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-00debug1/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Aditya-00debug1/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
